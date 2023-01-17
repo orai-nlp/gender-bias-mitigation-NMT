@@ -1,0 +1,5979 @@
+[
+    {
+        "src": "Dixie Burrus Browning pintura artistikoen eta nobela erromantikoen egile estatubatuar ezaguna \uffed.",
+        "tgt": "Dixie Burrus Browning es una popular autora estadounidense de pinturas art\u00edsticas y novelas rom\u00e1nticas.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Dixie",
+                "tgt": "Dixie"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "autora"
+                ],
+                "tgt_alt": [
+                    "autor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Elisabeth Rynell \uffed, idazle eta poeta suediarra \uffed; batez ere \uffed, eleberri eta poesia landu ditu \uffed.",
+        "tgt": "Elisabeth Rynell es una escritora y poetisa sueca que ha incursionado principalmente en los g\u00e9neros de la novela y poes\u00eda.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Elisabeth",
+                "tgt": "Elisabeth"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escritora",
+                    "poetisa"
+                ],
+                "tgt_alt": [
+                    "escritor",
+                    "poeta"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Marlui N\u00f3brega Miranda \uffed, konpositorea \uffed, abeslaria \uffed, musikologoa \uffed, orkestra-zuzendaria \uffed, arkitektoa eta Brasilgo kultura indigenaren ikertzailea \uffed.",
+        "tgt": "Marlui N\u00f3brega Miranda es una compositora, cantante, music\u00f3loga, directora de orquesta, arquitecta e investigadora de la cultura ind\u00edgena de Brasil.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Marlui",
+                "tgt": "Marlui"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "compositora",
+                    "music\u00f3loga",
+                    "directora",
+                    "arquitecta",
+                    "investigadora"
+                ],
+                "tgt_alt": [
+                    "compositor",
+                    "music\u00f3logo",
+                    "director",
+                    "arquitecto",
+                    "investigador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Magdalena Valerio Cordero \uffed, Espainiako legelaria eta politikaria \uffed, PSOEkoa \uffed; Gaztela-Mantxako Autonomia Erkidegoan egin du karrera politikoa \uffed.",
+        "tgt": "Magdalena Valerio Cordero es una jurista y pol\u00edtica espa\u00f1ola, del PSOE, que ha desarrollado su carrera pol\u00edtica en la comunidad aut\u00f3noma de Castilla-La Mancha.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Magdalena",
+                "tgt": "Magdalena"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Amparo Lozano Cerc\u00f3s \uffed, Espainiako arte garaikideko irakasle eta ikertzailea Gaztela-Mantxako Unibertsitateko Arte Ederren Fakultatean \uffed. Nabarmentzekoak dira artista garaikideei buruz egin dituen argitalpenak \uffed, bai eta kultura-arloko erakundeetan egindakoak ere \uffed; adibidez \uffed, Sof\u00eda Erregina Arte Zentro Nazionalaren Museo Nazionalean \uffed.",
+        "tgt": "Amparo Lozano Cerc\u00f3s es una profesora e investigadora de arte contempor\u00e1neo espa\u00f1ola en la Facultad de Bellas Artes de la Universidad de Castilla-La Mancha que destaca por sus publicaciones sobre artistas contempor\u00e1neos y en instituciones de \u00e1mbito cultural como el Museo Nacional Centro de Arte Reina Sof\u00eda.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Amparo",
+                "tgt": "Amparo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "profesora",
+                    "investigadora"
+                ],
+                "tgt_alt": [
+                    "profesor",
+                    "investigador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Cora Edna Flores Gonz\u00e1lez \uffed, dantzaria \uffed, koreografoa eta irakaslea \uffed; Mexikoko Ballet Kontzertuaren dantza-agertokian (\uffed gaur egun \uffed, Compa\u00f1\u00eda Nacional de Danza \uffed) nabarmendu zen \uffed.",
+        "tgt": "Cora Edna Flores Gonz\u00e1lez es una bailarina, core\u00f3grafa y maestra, apareci\u00f3 en el escenario danc\u00edstico del Ballet Concierto de M\u00e9xico, hoy, Compa\u00f1\u00eda Nacional de Danza.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Cora",
+                "tgt": "Cora"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "bailarina",
+                    "core\u00f3grafa",
+                    "maestra"
+                ],
+                "tgt_alt": [
+                    "bailar\u00edn",
+                    "core\u00f3grafo",
+                    "maestro"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Val\u00e8ria Gaillard Francesch \uffed, filosofo eta kazetari espainiarra \uffed.",
+        "tgt": "Val\u00e8ria Gaillard Francesch es una fil\u00f3sofa y periodista espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Val\u00e8ria",
+                "tgt": "Val\u00e8ria"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "fil\u00f3sofa"
+                ],
+                "tgt_alt": [
+                    "fil\u00f3sofo"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alyson Regina Annan \uffed, sistemen analista australiarra eta belar-hockeyko jokalari ohi eta entrenatzailea \uffed; erdilari-postuan aritzen zen \uffed.",
+        "tgt": "Alyson Regina Annan es una analista de sistemas, entrenadora y ex jugadora australiana de hockey sobre c\u00e9sped que se desempe\u00f1aba como mediocampista.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Alyson",
+                "tgt": "Alyson"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "entrenadora",
+                    "jugadora"
+                ],
+                "tgt_alt": [
+                    "entrenador",
+                    "jugador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Annie Leonard \uffed, aditua arlo hauetan \uffed: erantzukizun sozial korporatiboa \uffed, garapen jasangarria \uffed, laneko arriskuak \uffed, nazioarteko lankidetza eta AEBko ingurumen-osasuna \uffed.",
+        "tgt": "Annie Leonard es una experta en materia de responsabilidad social corporativa, desarrollo sostenible, riesgos laborales, cooperaci\u00f3n internacional y salud ambiental estadounidense.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Annie",
+                "tgt": "Annie"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "experta"
+                ],
+                "tgt_alt": [
+                    "experto"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Glenys Elizabeth Kinnock \uffed, Holyhead-eko Kinnock baroisa \uffed, FRSA \uffed, politikari britainiarra \uffed.",
+        "tgt": "Glenys Elizabeth Kinnock, baronesa Kinnock de Holyhead, FRSA es una pol\u00edtica brit\u00e1nica.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Glenys",
+                "tgt": "Glenys"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "baronesa",
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "bar\u00f3n",
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alicia Molina \uffed, idazle \uffed, komunikologo \uffed, gidoilari eta hezkuntza-telebistako ikertzailea \uffed; jatorriz Mexikokoa da \uffed.",
+        "tgt": "Alicia Molina es una escritora, comunic\u00f3loga, guionista e investigadora en televisi\u00f3n educativa, originaria de M\u00e9xico.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Alicia",
+                "tgt": "Alicia"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escritora",
+                    "comunic\u00f3loga",
+                    "investigadora escritor",
+                    "comunic\u00f3logo",
+                    "investigador"
+                ],
+                "tgt_alt": [
+                    "guionista"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "M\u00f3nica Fern\u00e1ndez Rold\u00e1n \uffed, Granadako argazkilaria \uffed; bere hiriko Arte Ederren Fakultatean ikasia da \uffed.",
+        "tgt": "M\u00f3nica Fern\u00e1ndez Rold\u00e1n es una fot\u00f3grafa de Granada formada en la facultad de Bellas Artes de su ciudad.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "M\u00f3nica",
+                "tgt": "M\u00f3nica"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "fot\u00f3grafa"
+                ],
+                "tgt_alt": [
+                    "fot\u00f3grafo"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Vivian Inez Archibald \uffed, Birjina Uharte Britainiarretako politikari eta enpresaria \uffed; Uharteetako gobernadore laguntzaile dihardu 2008tik \uffed.",
+        "tgt": "Vivian Inez Archibald es una pol\u00edtica y empresaria de las Islas V\u00edrgenes Brit\u00e1nicas que se desempe\u00f1a como gobernadora adjunta de las islas desde septiembre de 2008.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Vivian",
+                "tgt": "Vivian"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica",
+                    "empresaria",
+                    "gobernadora"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico",
+                    "empresario",
+                    "gobernador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alejandra Lagunes Soto Ruiz \uffed, komunikologo mexikarra \uffed; Estrategia Digitaleko Koordinatzaile Nazional izendatu zuten 2012an \uffed.",
+        "tgt": "Alejandra Lagunes Soto Ruiz es una comunic\u00f3loga mexicana, nombrada Coordinadora Nacional de Estrategia Digital en el 2012.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Alejandra",
+                "tgt": "Alejandra"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "comunic\u00f3loga"
+                ],
+                "tgt_alt": [
+                    "comunic\u00f3logo"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jade Raymond \uffed, bideo-jokoen ekoizle kanadarra eta Ubisoft Torontoko zuzendari ohia \uffed.",
+        "tgt": "Jade Raymond es una productora de videojuegos canadiense y antigua directora de Ubisoft Toronto.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Jade",
+                "tgt": "Jade"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "productora",
+                    "directora"
+                ],
+                "tgt_alt": [
+                    "productora",
+                    "director"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Brooke Bennett \uffed, AEBko igerilari erretiratua \uffed, estilo libreko probetan espezializatua distantzia ertainean eta luzean \uffed; 2000 \uffed. urtean txapeldun olinpikoa izan zen 400 eta 800 metroko lasterketetan \uffed.",
+        "tgt": "Brooke Bennett es una nadadora estadounidense retirada especializada en pruebas de estilo libre media y larga distancia, donde consigui\u00f3 ser campeona ol\u00edmpica en 2000 en los 400 y 800 metros.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Brooke",
+                "tgt": "Brooke"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Soledad Ramos Maqueda \uffed, botanikari eta irakasle espainiarra \uffed; jarduera akademikoak Extremadurako Unibertsitateko Nekazaritza Ingeniaritzako Eskolan egiten ditu \uffed.",
+        "tgt": "Soledad Ramos Maqueda es una bot\u00e1nica y profesora espa\u00f1ola, desarrollando actividades acad\u00e9micas en la Escuela de Ingenier\u00edas Agrarias de la Universidad de Extremadura.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Soledad",
+                "tgt": "Soledad"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "bot\u00e1nica",
+                    "profesora"
+                ],
+                "tgt_alt": [
+                    "bot\u00e1nico",
+                    "profesor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Yolanda Casta\u00f1o Pereira \uffed, galegoz lan egiten duen poeta eta literatura-kritikari espainiarra \uffed.",
+        "tgt": "Yolanda Casta\u00f1o Pereira es una poeta y cr\u00edtica literaria espa\u00f1ola en lengua gallega.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Yolanda",
+                "tgt": "Yolanda"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "cr\u00edtica"
+                ],
+                "tgt_alt": [
+                    "cr\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Kelly Sue DeConnick \uffed, komiki-gidoigile estatubatuarra \uffed; manga-lanak argitaratzen eta ingelesera itzultzen ditu \uffed.",
+        "tgt": "Kelly Sue DeConnick es una guionista de c\u00f3mic estadounidense, editora y traductora de obras manga al ingl\u00e9s.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Kelly",
+                "tgt": "Kelly"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "editora",
+                    "traductora"
+                ],
+                "tgt_alt": [
+                    "editor",
+                    "traductor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Julia Glushko \uffed, tenis-jokalari israeldarra \uffed.",
+        "tgt": "Julia Glushko es una jugadora israel\u00ed de tenis.",
+        "features": "2 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Julia",
+                "tgt": "Julia"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "jugadora"
+                ],
+                "tgt_alt": [
+                    "jugador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "\u0160pela Pretnar 1973ko martxoaren 5ean jaio zen \uffed, Bled-en \uffed. Eskiatzaile erretiratua da \uffed, eta Munduko Kopa bat irabazi zuen eslalonean \uffed, eta sei garaipen lortu zituen Eski Alpinoko Munduko Kopan \uffed.",
+        "tgt": "\u0160pela Pretnar naci\u00f3 el 5 de marzo de 1973 en Bled y es una esquiadora retirada que gan\u00f3 una Copa del Mundo en Eslalon y tiene seis victorias en la Copa del Mundo de Esqu\u00ed Alpino.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Spela",
+                "tgt": "Spela"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "esquiadora"
+                ],
+                "tgt_alt": [
+                    "esquiador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Krista Guloien \uffed, Port Moodyko arraunlari kanadarra \uffed.",
+        "tgt": "Krista Guloien es una remera canadiense de Port Moody.",
+        "features": "2 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Krista",
+                "tgt": "Krista"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "remera"
+                ],
+                "tgt_alt": [
+                    "remero"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Zhang Xiaohuan \uffed, igeriketa sinkronizatuko igerilari txinatarra \uffed; brontzezko domina eskuratu zuen 2008ko olinpiar jokoetan \uffed, taldekako lehiaketan \uffed.",
+        "tgt": "Zhang Xiaohuan es una nadadora china de nataci\u00f3n sincronizada medallista de bronce ol\u00edmpica en 2008 en el concurso por equipos.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Zhang",
+                "tgt": "Zhang"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Petra Priemer \uffed, Alemaniako igerilari erretiratua \uffed, estilo libreko probetan espezializatua \uffed; 1976an txapeldunorde olinpikoa izan zen 100 eta 4x100 metroko lasterketetan \uffed.",
+        "tgt": "Petra Priemer es una nadadora alemana retirada especializada en pruebas de estilo libre, donde consigui\u00f3 ser subcampeona ol\u00edmpica en 1976 en los 100 metros y 4x100 metros.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Petra",
+                "tgt": "Petra"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Silvia Carrascal Dom\u00ednguez \uffed, unibertsitate-irakasle espainiarra \uffed.",
+        "tgt": "Silvia Carrascal Dom\u00ednguez es una profesora universitaria espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Silvia",
+                "tgt": "Silvia"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "profesora"
+                ],
+                "tgt_alt": [
+                    "profesor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Blu Cantrell \uffed, R \uffed&\uffed B eta soul musikako kantautore estatubatuarra \uffed.",
+        "tgt": "Blu Cantrell es una cantautora estadounidense de R&B y m\u00fasica soul .",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Blu",
+                "tgt": "Blu"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "cantautora"
+                ],
+                "tgt_alt": [
+                    "cantautor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lauren Boyle \uffed, Zeelanda Berriko igerilari erretiratua \uffed, estilo libreko probetan espezializatua \uffed; 2015ean munduko txapeldunorde izan zen 800 metroko lasterketan \uffed.",
+        "tgt": "Lauren Boyle es una nadadora neozelandesa especializada en pruebas de estilo libre, donde consigui\u00f3 ser subcampeona mundial en 2015 en los 800 metros.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Lauren",
+                "tgt": "Lauren"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Cristina Barros Valero idazle \uffed, irakasle \uffed, zutabegile eta dibulgatzailea \uffed; Mexikoko sukaldaritza \uffed, historia eta herri-kultura ikertzen ditu \uffed.",
+        "tgt": "Cristina Barros Valero es una escritora, maestra, columnista y divulgadora dedicada a la investigaci\u00f3n de la Cocina, Historia y Cultura Popular Mexicana.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Cristina",
+                "tgt": "Cristina"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escritora",
+                    "maestra",
+                    "divulgadora"
+                ],
+                "tgt_alt": [
+                    "escritor",
+                    "maestro",
+                    "divulgador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Viviana Spinosa \uffed, Viviana Ram\u00edrez Spinosa izenez ere ezaguna \uffed, Kolonbiako diseinatzaile eta artista plastiko eta digitala \uffed; ibilbide luzea du Latinoamerikan eta mundu osoan \uffed.",
+        "tgt": "Viviana Spinosa conocida tambi\u00e9n como Viviana Ram\u00edrez Spinosa, es una dise\u00f1adora y artista pl\u00e1stica y digital colombiana con una amplia trayectoria en latinoamericana y en el resto del mundo.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Viviana",
+                "tgt": "Viviana"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "dise\u00f1adora"
+                ],
+                "tgt_alt": [
+                    "dise\u00f1ador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Ireneia Melo \uffed, mikologo \uffed, taxonomo eta irakasle portugaldarra \uffed.",
+        "tgt": "Ireneia Melo es una mic\u00f3loga, tax\u00f3noma, y profesora portuguesa.",
+        "features": "2 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Ireneia",
+                "tgt": "Ireneia"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "mic\u00f3loga",
+                    "tax\u00f3noma",
+                    "profesora"
+                ],
+                "tgt_alt": [
+                    "mic\u00f3logo",
+                    "tax\u00f3nomo",
+                    "profesor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alexandra Alvarenga Solnado \uffed, idazle portugaldarra \uffed; irakaspen espiritualen zenbait liburu argitaratu ditu \uffed.",
+        "tgt": "Alexandra Alvarenga Solnado es una escritora portuguesa, habiendo publicado varios libros con ense\u00f1anzas espirituales.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Alexandra",
+                "tgt": "Alexandra"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Debelah Morgan \uffed, R \uffed&\uffed B \uffed, soul eta urban musikako abeslari eta konposatzaile estatubatuarra \uffed.",
+        "tgt": "Debelah Morgan es una cantante y compositora estadounidense de R&B, soul y urban.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Debelah",
+                "tgt": "Debelah"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositora"
+                ],
+                "tgt_alt": [
+                    "compositor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Agneta Eriksson \uffed, Suediako igerilari erretiratua \uffed, estilo libreko probetan espezializatua \uffed; 1976an txapeldunorde olinpikoa izan zen 4x100 metroko lasterketan \uffed.",
+        "tgt": "Agneta Eriksson es una nadadora sueca retirada especializada en pruebas de estilo libre, donde consigui\u00f3 ser subcampeona ol\u00edmpica en 1980 en los 4x100 metros.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Agneta",
+                "tgt": "Agneta"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lourdes L\u00f3pez \uffed, dantzari ohi kubatar-estatubatuarra \uffed; Estatu Batuetan egin zuen karrera \uffed.",
+        "tgt": "Lourdes L\u00f3pez es una exbailarina cubanaestadounidense que hizo su carrera en los Estados Unidos.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Lourdes",
+                "tgt": "Lourdes"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "exbailarina"
+                ],
+                "tgt_alt": [
+                    "exbailar\u00edn"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Mar\u00eda Cristina Cifuentes Cuencas \uffed, Alderdi Popularreko politikari espainiarra \uffed; Madrilgo Erkidegoko presidente izan zen 2015etik 2018ra \uffed.",
+        "tgt": "Mar\u00eda Cristina Cifuentes Cuencas es una pol\u00edtica espa\u00f1ola del Partido Popular que desempe\u00f1\u00f3 la presidencia de la Comunidad de Madrid entre 2015 y 2018.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Mar\u00eda",
+                "tgt": "Mar\u00eda"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Theresa Andrews \uffed, AEBko igerilari erretiratua \uffed, bizkar-estiloko probetan espezializatua \uffed; 1984an txapeldun olinpikoa izan zen 100 metroko lasterketan \uffed.",
+        "tgt": "Theresa Andrews es una nadadora estadounidense retirada especializada en pruebas de estilo espalda, donde consigui\u00f3 ser campeona ol\u00edmpica en 1984 en los 100 metros.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Theresa",
+                "tgt": "Theresa"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Esther Qin \uffed, jatorri txinatarreko tranpolin-jauzilari australiarra \uffed; 3 metroko tranpolinean espezializatua dago \uffed, eta 2015ean munduko brontzezko domina eskuratu zuen modalitate horretan \uffed, jauzi sinkronizatuetan \uffed.",
+        "tgt": "Esther Qin es una clavadista o saltadora de trampol\u00edn australiana de origen chino especializada en trampol\u00edn de 3 metros, donde consigui\u00f3 ser medallista de bronce mundial en 2015 en los saltos sincronizados.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Esther",
+                "tgt": "Esther"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "saltadora"
+                ],
+                "tgt_alt": [
+                    "saltador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Elena Hern\u00e1ndez Sandoica \uffed, historialari espainiarra \uffed, Espainia garaikidean eta joera historiografikoetan espezializatua \uffed.",
+        "tgt": "Elena Hern\u00e1ndez Sandoica es una historiadora espa\u00f1ola, especializada en la Espa\u00f1a Contempor\u00e1nea y en tendencias historiogr\u00e1ficas.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Elena",
+                "tgt": "Elena"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "historiadora"
+                ],
+                "tgt_alt": [
+                    "historiador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Martha Luc\u00eda M\u00edcher Camarena \uffed, Mal\u00fa M\u00edcher izenez ezagunagoa \uffed, Mexikoko politikaria \uffed, ezkerrekoa \uffed; diputatu federal izan da bi aldiz \uffed.",
+        "tgt": "Martha Luc\u00eda M\u00edcher Camarena, m\u00e1s conocida como Mal\u00fa M\u00edcher, es una pol\u00edtica mexicana, de izquierda, que ha sido Diputada Federal en dos ocasiones.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Martha",
+                "tgt": "Martha"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Meritxell Borr\u00e0s Sol\u00e9 \uffed, politikari espainiarra \uffed; Kataluniako Parlamentuko diputatua da \uffed.",
+        "tgt": "Meritxell Borr\u00e0s Sol\u00e9 es una pol\u00edtica espa\u00f1ola, diputada en el Parlamento de Catalu\u00f1a.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Meritxell",
+                "tgt": "Meritxell"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica",
+                    "diputada"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico",
+                    "diputado"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Roc\u00edo Gonz\u00e1lez Navas \uffed, Ekuadorreko enpresaburu turistikoa \uffed; Len\u00edn Moreno Garc\u00e9s presidentearen emaztea da \uffed, eta \uffed, beraz \uffed, nazioko berrogeita laugarren lehen dama da 2017ko maiatzaren 24tik \uffed.",
+        "tgt": "Roc\u00edo Gonz\u00e1lez Navas es una empresaria tur\u00edstica ecuatoriana, esposa del presidente Len\u00edn Moreno Garc\u00e9s y por tanto cuadrag\u00e9simo cuarta primera dama de la naci\u00f3n, cargo que ejerce desde el 24 de mayo de 2017.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Roc\u00edo",
+                "tgt": "Roc\u00edo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "empresaria"
+                ],
+                "tgt_alt": [
+                    "empresario"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alessandra Silvestri-Levy \uffed, jatorri italiarreko idazle brasildarra \uffed.",
+        "tgt": "Alessandra Silvestri-Levy es una escritora brasile\u00f1a de origen italiano.",
+        "features": "2 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Alessandra",
+                "tgt": "Alessandra"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Anabela Silveira de Oliveira de Deble \uffed, botanikari brasildarra \uffed.",
+        "tgt": "Anabela Silveira de Oliveira de Deble es una bot\u00e1nica brasile\u00f1a.",
+        "features": "2 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Anabela",
+                "tgt": "Anabela"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "bot\u00e1nica"
+                ],
+                "tgt_alt": [
+                    "bot\u00e1nico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Kathleen Gertrud Ferrier \uffed, Herbehereetako politikari jatorriz surinamdarra eta garapenaren aldeko langilea \uffed.",
+        "tgt": "Kathleen Gertrud Ferrier es una pol\u00edtica neerlandesa de or\u00edgenes surinameses y trabajadora de ayuda al desarrollo.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Kathleen",
+                "tgt": "Kathleen"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica",
+                    "trabajadora"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico",
+                    "trabajador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Pilar Ram\u00edrez Tello \uffed, literatura-itzultzailea \uffed, itzultzaile teknikoa eta ingeleseko zinpeko itzultzailea \uffed.",
+        "tgt": "Pilar Ram\u00edrez Tello es una traductora literaria, traductora t\u00e9cnica y traductora jurada de ingl\u00e9s.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Pilar",
+                "tgt": "Pilar"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "traductora"
+                ],
+                "tgt_alt": [
+                    "traductor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Tamira Shelah Paszek \uffed, Austriako tenis-jokalari profesionala \uffed.",
+        "tgt": "Tamira Shelah Paszek es una jugadora de tenis profesional austriaca.",
+        "features": "2 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Tamira",
+                "tgt": "Tamira"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "jugadora"
+                ],
+                "tgt_alt": [
+                    "jugador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Catherine \"\uffed Cathy \uffed\" A \uffed. Paris \uffed, taxonomo eta eta pteridologo estatubatuarra \uffed; landare-sistematika eta eboluzioa ikertzen du UVMn \uffed.",
+        "tgt": "Catherine \"Cathy\" A. Paris es una tax\u00f3noma, y pterid\u00f3loga estadounidense, realizando investigaciones en Sistem\u00e1tica Vegetal y Evoluci\u00f3n del UVM.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Catherine",
+                "tgt": "Catherine"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "tax\u00f3noma",
+                    "pterid\u00f3loga"
+                ],
+                "tgt_alt": [
+                    "tax\u00f3nomo",
+                    "pterid\u00f3logo"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Kazuya Tada \uffed, ingeniaritza elektrikoko irakasle elkartu japoniarra \uffed; Hyogo Unibertsitatean lan egiten du \uffed.",
+        "tgt": "Kazuya Tada es una profesora asociada de ingenier\u00eda el\u00e9ctrica japonesa, quien trabaja en la Universidad de Hyogo.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Kazuya",
+                "tgt": "Kazuya"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "profesora"
+                ],
+                "tgt_alt": [
+                    "profesor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Dolors Montserrat i Culler\u00e9 \uffed, enpresari eta politikari espainiarra \uffed.",
+        "tgt": "Dolors Montserrat i Culler\u00e9 es una empresaria y pol\u00edtica espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Dolors",
+                "tgt": "Dolors"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "empresaria",
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "empresario",
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Penelope \"\uffed Penny \uffed\" Oleksiak \uffed, igerilari kanadarra \uffed, estilo libreko eta tximeleta-estiloko probetan espezializatua \uffed.",
+        "tgt": "Penelope \"Penny\" Oleksiak es una nadadora canadiense especializada en las pruebas de estilo libre y mariposa.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Penelope",
+                "tgt": "Penelope"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Anna Maria Adroer i Tasis \uffed, historialari eta arkeologo espainiarra \uffed.",
+        "tgt": "Anna Maria Adroer i Tasis es una historiadora y arque\u00f3loga espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Anna",
+                "tgt": "Anna"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "historiadora",
+                    "arque\u00f3loga"
+                ],
+                "tgt_alt": [
+                    "historiador",
+                    "arque\u00f3logo"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Joana Xamena Terrasa \uffed, biologo eta politikari espainiarra \uffed.",
+        "tgt": "Joana Xamena Terrasa es una bi\u00f3loga y pol\u00edtica espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Joana",
+                "tgt": "Joana"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "bi\u00f3loga",
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "bi\u00f3logo",
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Iratxe Garc\u00eda P\u00e9rez \uffed, politikari espainiarra \uffed, PSOEkoa \uffed.",
+        "tgt": "Iratxe Garc\u00eda P\u00e9rez es una pol\u00edtica espa\u00f1ola perteneciente al PSOE.",
+        "features": "2 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Iratxe",
+                "tgt": "Iratxe"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "\u00c1gatha Ruiz de la Prada y Sentmenat \uffed, moda-diseinatzaile eta enpresari espainiarra \uffed.",
+        "tgt": "\u00c1gatha Ruiz de la Prada y Sentmenat es una dise\u00f1adora de modas y empresaria espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "\u00c1gatha",
+                "tgt": "\u00c1gatha"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "dise\u00f1adora",
+                    "empresaria"
+                ],
+                "tgt_alt": [
+                    "dise\u00f1ador",
+                    "empresario"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Elba Perla Fuscaldo \uffed, egiptologo argentinarra \uffed, Antzinako Egiptoko zeramikan espezialista \uffed.",
+        "tgt": "Elba Perla Fuscaldo es una egipt\u00f3loga argentina especialista en la cer\u00e1mica del Antiguo Egipto.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Elba",
+                "tgt": "Elba"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "egipt\u00f3loga"
+                ],
+                "tgt_alt": [
+                    "egipt\u00f3logo"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Brooke Valentine \uffed, R \uffed&\uffed B-ko abeslaria eta kanta-konpositore estatubatuarra \uffed.",
+        "tgt": "Brooke Valentine es una cantante de R&B y compositora de canciones estadounidense.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Brooke",
+                "tgt": "Brooke"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositora"
+                ],
+                "tgt_alt": [
+                    "compositor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Mary M \uffed. Talbot \uffed, autore eta akademiko britainiarra \uffed, nazioartean ospetsua \uffed.",
+        "tgt": "Mary M. Talbot es una autora y acad\u00e9mica brit\u00e1nica de prestigio internacional.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Mary",
+                "tgt": "Mary"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "autora",
+                    "acad\u00e9mica"
+                ],
+                "tgt_alt": [
+                    "autor",
+                    "acad\u00e9mico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Kelly P \uffed. Steele \uffed, irakasle eta botanikari estatubatuarra \uffed; Arizonako Estatuko Unibertsitatean dihardu lanean \uffed, irakasle elkartu gisa \uffed.",
+        "tgt": "Kelly P. Steele es una profesora, y bot\u00e1nica estadounidense, que se desempe\u00f1a acad\u00e9micamente en la Universidad Estatal de Arizona, como profesora asociada.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Kelly",
+                "tgt": "Kelly"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "profesora",
+                    "bot\u00e1nica"
+                ],
+                "tgt_alt": [
+                    "profesor",
+                    "bot\u00e1nico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Anna Clara Beatrice Tidholm \uffed, jaiotzez Anna Clara Beatrice Tjerneld \uffed, idazle eta ilustratzaile suediarra \uffed.",
+        "tgt": "Anna Clara Beatrice Tidholm, nombre de nacimiento Anna Clara Beatrice Tjerneld, es una escritora e ilustradora sueca.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Anna",
+                "tgt": "Anna"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escritora",
+                    "ilustradora"
+                ],
+                "tgt_alt": [
+                    "escritor",
+                    "ilustrador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Daniela Mercuri de Almeida \uffed, Daniela Mercury izenez ezaguna \uffed, abeslari \uffed, konpositore \uffed, dantzari eta ax\u00e9 \uffed, samba eta MPB musika-ekoizle garrantzitsua \uffed.",
+        "tgt": "Daniela Mercuri de Almeida, conocida como Daniela Mercury, es una importante cantante, compositora, bailarina y productora musical de ax\u00e9, samba y MPB.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Daniela",
+                "tgt": "Daniela"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "compositora",
+                    "bailarina",
+                    "productora"
+                ],
+                "tgt_alt": [
+                    "compositor",
+                    "bailar\u00edn",
+                    "productor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Esther Pizarro \uffed, eskultore espainiarra \uffed; sorkuntza artistikoko eta arteen teoriako irakaslea da Madrilgo Unibertsitate Europarrean \uffed.",
+        "tgt": "Esther Pizarro es una escultora espa\u00f1ola, profesora de creaci\u00f3n art\u00edstica y teor\u00eda de las artes en la Universidad Europea de Madrid.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Esther",
+                "tgt": "Esther"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escultora",
+                    "profesora"
+                ],
+                "tgt_alt": [
+                    "escultor",
+                    "profesor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Mar\u00eda Rosa Vindel L\u00f3pez \uffed, abokatu eta politikari espainiarra \uffed; Madrilgo Asanbleako diputatua izana da II \uffed. legegintzaldian \uffed, eta Gorte Nagusietako senataria IV \uffed. legegintzalditik \uffed.",
+        "tgt": "Mar\u00eda Rosa Vindel L\u00f3pez es una abogada y pol\u00edtica espa\u00f1ola, diputada de la Asamblea de Madrid en su ii legislatura y senadora en las Cortes Generales desde su iv legislatura.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Mar\u00eda",
+                "tgt": "Mar\u00eda"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogada",
+                    "pol\u00edtica",
+                    "diputada",
+                    "senadora"
+                ],
+                "tgt_alt": [
+                    "abogado",
+                    "pol\u00edtico",
+                    "diputado",
+                    "senador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Adryana Ribeiro \uffed, Adryana de Carvalhoren goitizena \uffed; kantari eta konpositore brasildarra \uffed.",
+        "tgt": "Adryana Ribeiro es el sobrenombre de Adryana de Carvalho , una cantante y compositora brasile\u00f1a.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Adryana",
+                "tgt": "Adryana"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositora"
+                ],
+                "tgt_alt": [
+                    "compositor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Rosa Fabregat i Armengol \uffed, idazle eta farmazialari espainiarra \uffed.",
+        "tgt": "Rosa Fabregat i Armengol es una escritora y farmac\u00e9utica espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Rosa",
+                "tgt": "Rosa"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escritora",
+                    "farmace\u00fatica"
+                ],
+                "tgt_alt": [
+                    "escritor",
+                    "farmace\u00fatico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Martha Riva Palacio Ob\u00f3n \uffed, idazle \uffed, poeta eta soinu-artista mexikarra \uffed.",
+        "tgt": "Martha Riva Palacio Ob\u00f3n es una escritora, poeta y artista sonora mexicana.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Martha",
+                "tgt": "Martha"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Imelda Rafaela Rinc\u00f3n Finol \uffed, Imelda Rinc\u00f3n de Maldonado izenez ere ezaguna \uffed, unibertsitate-irakasle \uffed, ikertzaile eta kultura-sustatzailea \uffed, Venezuelako lehen emakumezko errektorea \uffed.",
+        "tgt": "Imelda Rafaela Rinc\u00f3n Finol, conocida tambi\u00e9n como Imelda Rinc\u00f3n de Maldonado, es una profesora universitaria, investigadora, promotora cultural y primera mujer rectora de Venezuela .",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Imelda",
+                "tgt": "Imelda"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "profesora",
+                    "investigadora",
+                    "promotora",
+                    "rectora"
+                ],
+                "tgt_alt": [
+                    "profesor",
+                    "investigador",
+                    "promotor",
+                    "rector"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Gil Young-ah edo Gir Yeong-A \uffed, badminton-jokalari ohi hegokorearra \uffed; hiru domina olinpiko irabazi zituen \uffed.",
+        "tgt": "Gil Young-ah o Gir Yeong-A es una jugadora de b\u00e1dminton sur-coreana, ya retirada, ganadora de tres medallas ol\u00edmpicas.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Gil",
+                "tgt": "Gil"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "jugadora"
+                ],
+                "tgt_alt": [
+                    "jugador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lana Mamkegh \uffed, kazetari eta politikari jordaniarra \uffed; bere herrialdeko kultura-ministroa izan zen 2015etik 2016ra \uffed.",
+        "tgt": "Lana Mamkegh es una periodista y pol\u00edtica jordana, ministra de cultura de su pa\u00eds entre 2015 y 2016.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Lana",
+                "tgt": "Lana"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica",
+                    "ministra"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico",
+                    "ministro"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Roma Shane Ryan \uffed, idazle \uffed, poeta eta kanta-idazle irlandarra \uffed.",
+        "tgt": "Roma Shane Ryan es una escritora, poetisa y letrista irlandesa.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Roma",
+                "tgt": "Roma"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escritora",
+                    "poetisa"
+                ],
+                "tgt_alt": [
+                    "escritor",
+                    "poeta"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Raquel Castelo Ruano \uffed, historialari espainiarra \uffed; ikertzaile eta irakasle dihardu Madrilgo Unibertsitate Autonomoan \uffed.",
+        "tgt": "Raquel Castelo Ruano es una historiadora espa\u00f1ola, que compagina su labor como investigadora con la docencia, la cual ejerce en la Universidad Aut\u00f3noma de Madrid.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Raquel",
+                "tgt": "Raquel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "historiadora",
+                    "investigadora"
+                ],
+                "tgt_alt": [
+                    "historiador",
+                    "investigador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Ludmila Manicler \uffed, argentinar futbolari ohi eta areto-futboleko jolalaria gaur egun \uffed; Club Sportivo Barracaseko emakumeen taldean aritzen da \uffed.",
+        "tgt": "Ludmila Manicler es una exfutbolista y actual jugadora de futsal argentina que actualmente milita en el equipo femenino del Club Sportivo Barracas.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Ludmila",
+                "tgt": "Ludmila"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "jugadora"
+                ],
+                "tgt_alt": [
+                    "jugador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lara Siscar Peir\u00f3 \uffed, telebistako aurkezle espainiarra \uffed.",
+        "tgt": "Lara Siscar Peir\u00f3 es una presentadora de televisi\u00f3n espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Lara",
+                "tgt": "Lara"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "presentadora"
+                ],
+                "tgt_alt": [
+                    "presentador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Elisa P\u00e9rez Vera \uffed, jurista espainiarra \uffed; Nazioarteko Zuzenbide Pribatuko katedratikoa da Urruneko Hezkuntzako Unibertsitate Nazionalean \uffed, eta Konstituzio Auzitegiko magistratua izan zen 2001etik 2012ra \uffed.",
+        "tgt": "Elisa P\u00e9rez Vera es una jurista espa\u00f1ola, catedr\u00e1tica de Derecho Internacional Privado en la Universidad Nacional de Educaci\u00f3n a Distancia y magistrada del Tribunal Constitucional entre 2001 y 2012.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Elisa",
+                "tgt": "Elisa"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "catedr\u00e1tica",
+                    "magistrada"
+                ],
+                "tgt_alt": [
+                    "catedr\u00e1tico",
+                    "magistrado"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lisa Marie Sole \uffed, Victoria edo Tara izenez ezagunagoa \uffed, borrokalari profesionala \uffed, fisikokulturista eta fitnesseko lehiaketari estatubatuarra \uffed; World Wrestling Entertainment-entzat eta Total Nonstop Action Wrestling-entzat lan egin zuen \uffed.",
+        "tgt": "Lisa Marie Sole, m\u00e1s conocida como Victoria o Tara, es una luchadora profesional, f\u00edsicoculturista y competidora de fitness estadounidense, que trabaj\u00f3 para la World Wrestling Entertainment y para Total Nonstop Action Wrestling .",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Lisa",
+                "tgt": "Lisa"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "luchadora",
+                    "competidora"
+                ],
+                "tgt_alt": [
+                    "luchador",
+                    "competidor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Ashley Twichell \uffed, AEBko igerilaria \uffed, ur irekietako distantzia luzeko probetan espezializatua \uffed; 2017an munduko txapelduna izan zen ur irekietako 5 kilometroko proban \uffed.",
+        "tgt": "Ashley Twichell es una nadadora estadounidense especializada en pruebas de larga distancia en aguas abiertas, donde consigui\u00f3 ser campeona mundial en 2017 en los 5 kil\u00f3metros en aguas abiertas.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Ashley",
+                "tgt": "Ashley"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Sandra Valencia \uffed, Sandra Uve izenez ezagunagoa \uffed, Espainiako ilustratzaile \uffed, historialari eta idazlea \uffed; Arte Plastikoetan eta Ilustrazioko Diseinuan lizentziatua dago Bartzelonako Escola Llotjan \uffed.",
+        "tgt": "Sandra Valencia, m\u00e1s conocida como Sandra Uve es una ilustradora, historietista y escritora espa\u00f1ola, licenciada en Artes Pl\u00e1sticas y Dise\u00f1o en Ilustraci\u00f3n por la Escola Llotja de Barcelona",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Sandra",
+                "tgt": "Sandra"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "ilustradora",
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "ilustrador",
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Karla Morales Rosales \uffed, Ekuadorreko giza eskubideen aldeko ekintzailea \uffed.",
+        "tgt": "Karla Morales Rosales es una abogada y activista por los derechos humanos ecuatoriana.",
+        "features": "2 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Karla",
+                "tgt": "Karla"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "abogada"
+                ],
+                "tgt_alt": [
+                    "abogado"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Bojana Radulovi\u0107 \uffed, eskubaloi-jokalari ohia \uffed. Nazioarteko jokalaria izan zen Jugoslaviarekin \uffed, eta ondoren Hungariarekin \uffed.",
+        "tgt": "Bojana Radulovi\u0107 es una ex jugadora de balonmano retirada que fue internacional con Yugoslavia y posteriormente con Hungr\u00eda.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Bojana",
+                "tgt": "Bojana"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "jugadora"
+                ],
+                "tgt_alt": [
+                    "jugador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Elena Tornikidou \uffed, saskibaloi-jokalari profesional ohi errusiar-espainiarra \uffed.",
+        "tgt": "Elena Tornikidou es una jugadora rusa-espa\u00f1ola de baloncesto profesional ya retirada.",
+        "features": "2 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Elena",
+                "tgt": "Elena"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "jugadora"
+                ],
+                "tgt_alt": [
+                    "jugador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Christine Lagarde abokatu eta politikari frantsesa \uffed; Nazioarteko Moneta Funtsaren zuzendari kudeatzailea 2011ko uztailaren 5etik \uffed.",
+        "tgt": "Christine Lagarde es una abogada y pol\u00edtica francesa, directora gerente del Fondo Monetario Internacional desde el 5 de julio de 2011.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Christine",
+                "tgt": "Christine"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogada",
+                    "pol\u00edtica",
+                    "directora"
+                ],
+                "tgt_alt": [
+                    "abogado",
+                    "pol\u00edtico",
+                    "director"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Valentina Quintero Montiel \uffed, Venezuelako gizarte-komunikatzailea \uffed; irratiko eta telebistako programen gidaria \uffed, eta liburu- \uffed, agenda- \uffed, aldizkari- eta egunkari-idazlea \uffed.",
+        "tgt": "Valentina Quintero Montiel es una comunicadora social venezolana, conductora de programas en radio y televisi\u00f3n, y escritora de impresos como libros, agendas, revistas y prensa.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Valentina",
+                "tgt": "Valentina"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "comunicadora",
+                    "conductora",
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "comunicador",
+                    "conductor",
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Manuela Esperanza Garc\u00eda Cochagne \uffed, Peruko abokatu eta funtzionario publikoa \uffed.",
+        "tgt": "Manuela Esperanza Garc\u00eda Cochagne es una abogada y funcionaria p\u00fablica peruana.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Manuela",
+                "tgt": "Manuela"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogada",
+                    "funcionaria"
+                ],
+                "tgt_alt": [
+                    "abogado",
+                    "funcionario"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Constan\u00e7a Lucas \uffed, artista \uffed, idazle eta poeta \uffed; jatorriz portugaldarra da \uffed, eta Brasilen bizi eta lan egiten du \uffed.",
+        "tgt": "Constan\u00e7a Lucas es una artista, escritora, y poeta de origen portuguesa, que vive y trabaja en el Brasil.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Constan\u00e7a",
+                "tgt": "Constan\u00e7a"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alexandra Federica G\u00fazman Diamante \uffed, Federica G\u00fazman izenez ezaguna \uffed, Venezuelako telebista-aurkezle \uffed, esatari eta modeloa \uffed; Venezuelako Edertasunaren erregina ohia da \uffed, eta ezaguna da 2006an Miss Mundua lehiaketan parte hartu zuelako eta Close Up elkarrizketa-saioko animatzailea delako \uffed.",
+        "tgt": "Alexandra Federica G\u00fazman Diamante conocida como Federica G\u00fazman es una presentadora de Televisi\u00f3n, locutora, modelo y ex-reina de Belleza Venezolana conocida por su participaci\u00f3n en el Miss Mundo 2006 y por ser la animadora del programa de entrevistas Close Up.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Alexandra",
+                "tgt": "Alexandra"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "presentadora",
+                    "locutora",
+                    "animadora"
+                ],
+                "tgt_alt": [
+                    "presentador",
+                    "locutor",
+                    "animador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Margarita Main\u00e9 \uffed, Argentinako irakasle eta idazlea \uffed; haur- eta gazte-literaturan aritzen da \uffed.",
+        "tgt": "Margarita Main\u00e9 es una docente y escritora argentina, dedicada a la literatura infantil y juvenil.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Margarita",
+                "tgt": "Margarita"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lindsay Benko \uffed, AEBko igerilari erretiratua \uffed, estilo libreko probetan espezializatua \uffed; 2000n txapeldun olinpikoa izan zen 4x200 metroko lasterketan \uffed.",
+        "tgt": "Lindsay Benko es una nadadora estadounidense retirada especializada en pruebas de estilo libre, donde consigui\u00f3 ser campeona ol\u00edmpica en 2000 en los 4x200 metros.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Lindsay",
+                "tgt": "Lindsay"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Silvia Cherem Sacal \uffed, Mexikoko kazetari eta idazlea \uffed; elkarrizketa luze-sakonak egiten dizkie Mexikoko eta nazioarteko kultura-munduko pertsona garrantzitsuei \uffed, eta erreportajeak eta kronikak ere argitaratzen ditu \uffed.",
+        "tgt": "Silvia Cherem Sacal, periodista y escritora mexicana, se dedica a publicar entrevistas de largo aliento con importantes personalidades del mundo cultural mexicano e internacional, as\u00ed como reportajes y cr\u00f3nicas.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Silvia",
+                "tgt": "Silvia"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Fernanda Romeu Alfaro \uffed, historialari espainiarra \uffed; antifrankismoari eta langile-mugimenduari buruzko hainbat lan argitaratu ditu \uffed.",
+        "tgt": "Fernanda Romeu Alfaro es una historiadora espa\u00f1ola, que ha publicado varios trabajos sobre el antifranquismo y el movimiento obrero.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Fernanda",
+                "tgt": "Fernanda"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "historiadora"
+                ],
+                "tgt_alt": [
+                    "historiador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Marcela T\u00f3rrez Sahonero \uffed, Boliviako pianista \uffed, biolinista eta orkestra-zuzendaria \uffed.",
+        "tgt": "Marcela T\u00f3rrez Sahonero es una pianista, violinista y directora de orquesta de Bolivia.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Marcela",
+                "tgt": "Marcela"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "directora"
+                ],
+                "tgt_alt": [
+                    "director"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lady Janet Anne Royall \uffed, Blaisdongo errege-baroisa \uffed, Kontseilu Pribatuko kidea \uffed; 1955eko abuztuaren 20an jaio zen \uffed, Gloucesterren \uffed, eta Alderdi Laboristako politikari britainiarra da \uffed, eta Bere Maiestatearen Oposizio Oso Leialaren liderra gaur egun Erresuma Batuko Lorden Ganberan \uffed.",
+        "tgt": "Lady Janet Anne Royall, baronesa Royall de Blaisdon, PC, nacida el 20 de agosto de 1955 en Gloucester, es una pol\u00edtica brit\u00e1nica del Partido Laborista, y actual l\u00edder de la Muy Leal Oposici\u00f3n de Su Majestad en la C\u00e1mara de los Lores del Reino Unido.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Lady",
+                "tgt": "Lady"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "baronesa",
+                    "pol\u00edtica"
+                ],
+                "tgt_alt": [
+                    "bar\u00f3n",
+                    "pol\u00edtico"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Roswitha Krause \uffed, Alemaniako igerilari erretiratua \uffed, estilo libreko probetan espezializatua \uffed; 1967an txapeldunorde olinpikoa izan zen estilo libreko 4x100 metroko lasterketan \uffed.",
+        "tgt": "Roswitha Krause es una nadadora alemana retirada especializada en pruebas de estilo libre, donde consigui\u00f3 ser subcampeona ol\u00edmpica en 1968 en los 4x100 metros estilo libre.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Roswitha",
+                "tgt": "Roswitha"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadadora"
+                ],
+                "tgt_alt": [
+                    "nadador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Julia Sevilla Mu\u00f1oz \uffed, filologo \uffed, paremiologo eta itzultzaile espainiarra \uffed; 1960an jaio zen \uffed, V\u00e9lez-M\u00e1lagan \uffed.",
+        "tgt": "Julia Sevilla Mu\u00f1oz, nacida en V\u00e9lez-M\u00e1laga en 1960, es fil\u00f3loga, paremi\u00f3loga y traductora espa\u00f1ola.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Julia",
+                "tgt": "Julia"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "fil\u00f3loga",
+                    "paremi\u00f3loga",
+                    "traductora"
+                ],
+                "tgt_alt": [
+                    "fil\u00f3logo",
+                    "paremi\u00f3logo",
+                    "traductor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Paula Toller \uffed, kantari eta konposatzaile brasildarra \uffed.",
+        "tgt": "Paula Toller es una cantante brasile\u00f1a y compositora.",
+        "features": "2 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Paula",
+                "tgt": "Paula"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositora"
+                ],
+                "tgt_alt": [
+                    "compositor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Ritu Beri \uffed, moda-diseinatzaile indiarra \uffed, nazioartean aintzatetsia \uffed.",
+        "tgt": "Ritu Beri es una dise\u00f1adora de moda india con reconocimiento internacional.",
+        "features": "2 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Ritu",
+                "tgt": "Ritu"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "dise\u00f1adora"
+                ],
+                "tgt_alt": [
+                    "dise\u00f1ador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Luc\u00eda Sosa Campos \uffed, kantautore \uffed, gitarrista eta flautista espainiarra \uffed, zeharkako flautan espezializatua \uffed.",
+        "tgt": "Luc\u00eda Sosa Campos es una cantautora, guitarrista y flautista espa\u00f1ola, especializada en la flauta traversa.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Luc\u00eda",
+                "tgt": "Luc\u00eda"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "cantautora"
+                ],
+                "tgt_alt": [
+                    "cantautor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Victoria Franc\u00e9s \uffed, ilustratzaile valentziarra \uffed, 1982ko urriaren 25ean jaioa \uffed.",
+        "tgt": "Victoria Franc\u00e9s es una ilustradora valenciana, nacida el 25 de octubre de 1982.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Victoria",
+                "tgt": "Victoria"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "ilustradora"
+                ],
+                "tgt_alt": [
+                    "ilustrador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Tania Jamardo Faillace \uffed, Tania Faillace izenez ezagunagoa \uffed, kazetari \uffed, idazle \uffed, ekintzaile politiko eta feminista brasildarra \uffed; eleberri \uffed, eleberri labur eta ipuinak idatzi izan ditu \uffed.",
+        "tgt": "Tania Jamardo Faillace, m\u00e1s conocida como Tania Faillace , es una periodista, escritora, activista pol\u00edtica y feminista brasile\u00f1a que ha incursionado en el g\u00e9nero novela, novela corta y cuento.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Tania",
+                "tgt": "Tania"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritora"
+                ],
+                "tgt_alt": [
+                    "escritor"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Hwangbo Hye Jeong \uffed, Hwangbo izenez ezagunagoa \uffed, Hego Koreako abeslari eta raperoa \uffed.",
+        "tgt": "Hwangbo Hye Jeong, m\u00e1s conocida como Hwangbo, es una cantante y rapera sur-coreana.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Hwangbo",
+                "tgt": "Hwangbo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "rapera"
+                ],
+                "tgt_alt": [
+                    "rapero"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Francesca Dellap\u00e8 \uffed, tranpolin-jauzilari italiarra,3 metroko tranpolinean espezializatua \uffed; 2009an eta 2013an \uffed, munduko txapeldunordea izan zen modalitate horretan \uffed.",
+        "tgt": "Francesca Dellap\u00e8 es una clavadista o saltadora de trampol\u00edn italiana especializada en trampol\u00edn de 3 metros, donde consigui\u00f3 ser subcampeona mundial en 2009 y 2013.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Francesca",
+                "tgt": "Francesca"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "saltadora"
+                ],
+                "tgt_alt": [
+                    "saltador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Dawn Zimmer \uffed, politikari \uffed, irakasle \uffed, argazkilari eta historialari estatubatuarra \uffed.",
+        "tgt": "Dawn Zimmer es una pol\u00edtica, profesora, fot\u00f3grafa e historiadora estadounidense.",
+        "features": "2 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "F"
+        ],
+        "entities": [
+            {
+                "src": "Dawn",
+                "tgt": "Dawn"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtica",
+                    "profesora",
+                    "fot\u00f3grafa",
+                    "historiadora"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtico",
+                    "profesor",
+                    "fot\u00f3grafo",
+                    "historiador"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Richard Galliano jazz konpositore musikal eta akordeoi frantziar-italiarra \uffed.",
+        "tgt": "Richard Galliano es un compositor musical y acordeonista franco-italiano de jazz.",
+        "features": "1 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Richard",
+                "tgt": "Richard"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositor"
+                ],
+                "tgt_alt": [
+                    "compositora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Marko Orsi \uffed, igerilari italiarra \uffed, distantzia labur eta ertaineko estilo libreko probetan espezializatua \uffed; 2015ean \uffed, munduko brontzezko domina lortu zuen 4x100 metroko lasterketan \uffed.",
+        "tgt": "Marco Orsi es un nadador italiano especializado en pruebas de estilo libre media y corta distancia, donde consigui\u00f3 ser medallista de bronce mundial en 2015 en los 4x100 metros.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Marco",
+                "tgt": "Marco"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadador"
+                ],
+                "tgt_alt": [
+                    "nadadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Ernesto Cavour Aramayo \uffed, Boliviako abeslari \uffed, musikari \uffed, artista \uffed, musika-tresnen asmatzaile eta musika-liburuen egilea \uffed.",
+        "tgt": "Ernesto Cavour Aramayo es un cantante, m\u00fasico, artista, inventor de instrumentos musicales y autor de libros de ense\u00f1anza musical boliviano.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Ernesto",
+                "tgt": "Ernesto"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico",
+                    "inventor",
+                    "autor"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica",
+                    "inventora",
+                    "autora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Julio Pablo Chac\u00f3n \uffed, Pablo Chac\u00f3n izenez ezaguna \uffed, Argentinako boxeolari ohia \uffed.",
+        "tgt": "Julio Pablo Chac\u00f3n, conocido como Pablo Chac\u00f3n , es un exboxeador argentino.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Julio",
+                "tgt": "Julio"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "exboxeador"
+                ],
+                "tgt_alt": [
+                    "exboxeadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alfonso Pino Zamorano \uffed, futbol-arbitro ohia \uffed; 1972ko ekainaren 23an jaio zen \uffed, Madrilen \uffed.",
+        "tgt": "Alfonso Pino Zamorano es un ex \u00e1rbitro de f\u00fatbol, nacido el 23 de junio de 1972 en Madrid.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Alfonso",
+                "tgt": "Alfonso"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "\u00e1rbitro"
+                ],
+                "tgt_alt": [
+                    "\u00e1rbitra"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jos\u00e9 Antonio Lozano D\u00edez \uffed, jurista mexikarra \uffed; Unibertsitate Panamerikarreko errektore nagusia \uffed.",
+        "tgt": "Jos\u00e9 Antonio Lozano D\u00edez es un jurista mexicano, Rector General de la Universidad Panamericana.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jos\u00e9",
+                "tgt": "Jos\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "rector"
+                ],
+                "tgt_alt": [
+                    "rectora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Roberto de Figueiredo Caldas \uffed, abokatu brasildarra \uffed; eskubide ekonomiko eta sozialen aldeko aktibista da \uffed, etikan eta giza eskubideetan aditua \uffed, baita Konstituzio eta Lan Zuzenbidean ere \uffed.",
+        "tgt": "Roberto de Figueiredo Caldas es un abogado brasile\u00f1o activista por los derechos econ\u00f3micos y sociales, experto en \u00e9tica y derechos humanos, as\u00ed como Derecho Constitucional y Laboral.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Roberto",
+                "tgt": "Roberto"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogado",
+                    "experto"
+                ],
+                "tgt_alt": [
+                    "abogada",
+                    "experta"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Vladimir Franz \uffed, artista \uffed, konpositore \uffed, abokatu eta politikari txekiarra \uffed.",
+        "tgt": "Vladim\u00edr Franz es un artista, compositor, abogado y pol\u00edtico checo.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Vladim\u00edr",
+                "tgt": "Vladim\u00edr"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "compositor",
+                    "abogado",
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "compositora",
+                    "abogada",
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Miguel Courtois-Paternina \uffed, zinema-zuzendari hispano-frantsesa \uffed.",
+        "tgt": "Miguel Courtois-Paternina es un director de cine hispano-franc\u00e9s.",
+        "features": "1 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Miguel",
+                "tgt": "Miguel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "director"
+                ],
+                "tgt_alt": [
+                    "directora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "John Freddy M\u00fcller Gonz\u00e1lez \uffed, kazetaria \uffed, El Mundo Espainiako egunkariaren zuzendari atxiki ohia eta Veo TVko Veo Expansi\u00f3n dibulgazio ekonomikoko programaren aurkezlea \uffed.",
+        "tgt": "John Freddy M\u00fcller Gonz\u00e1lez es un periodista, ex director adjunto del diario espa\u00f1ol El Mundo y copresentador del programa de divulgaci\u00f3n econ\u00f3mica Veo Expansi\u00f3n de Veo TV.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "John",
+                "tgt": "John"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "director",
+                    "copresentador"
+                ],
+                "tgt_alt": [
+                    "directora",
+                    "copresentadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alberto P\u00e9rez Lapastora \uffed, kantautore \uffed, konpositore \uffed, gitarrista eta orkestra-zuzendari espainiarra \uffed.",
+        "tgt": "Alberto P\u00e9rez Lapastora es un cantautor, compositor, guitarrista y director de orquesta espa\u00f1ol.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Alberto",
+                "tgt": "Alberto"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "cantautor",
+                    "compositor",
+                    "director"
+                ],
+                "tgt_alt": [
+                    "cantautora",
+                    "compositora",
+                    "directora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Arturo Tamayo Ballesteros \uffed, orkestra-zuzendari eta musika-irakasle espainiarra \uffed.",
+        "tgt": "Arturo Tamayo Ballesteros es un director de orquesta y profesor de m\u00fasica espa\u00f1ol.",
+        "features": "1 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Arturo",
+                "tgt": "Arturo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "director",
+                    "profesor"
+                ],
+                "tgt_alt": [
+                    "directora",
+                    "profesora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Zarko Luksic Sandoval \uffed, Txileko abokatu eta politikaria \uffed; Alderdi Demokrata Kristauko militantea da \uffed.",
+        "tgt": "Zarko Luksic Sandoval es un abogado y pol\u00edtico chileno, militante del Partido Dem\u00f3crata Cristiano.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Zarko",
+                "tgt": "Zarko"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogado",
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "abogada",
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Daniel P \uffed. Carter \uffed, musikari eta irratiko DJ britainiarra \uffed.",
+        "tgt": "Daniel P. Carter es un m\u00fasico y DJ de radio de nacionalidad brit\u00e1nica.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Daniel",
+                "tgt": "Daniel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jos\u00e9 Demetrio Isidro Marco de la Puente Brunke \uffed, historialari \uffed, katedradun eta abokatu perutarra \uffed.",
+        "tgt": "Jos\u00e9 Demetrio Isidro Marco de la Puente Brunke es un historiador, catedr\u00e1tico y abogado peruano.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jos\u00e9",
+                "tgt": "Jos\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "historiador",
+                    "catedr\u00e1tico",
+                    "abogado"
+                ],
+                "tgt_alt": [
+                    "historiadora",
+                    "catedr\u00e1tica",
+                    "abogada"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Joshua Jacob Marston \uffed, AEBko gidoilari eta zinema-zuzendaria \uffed; 1968an jaio zen \uffed, Kalifornian \uffed.",
+        "tgt": "Joshua Jacob Marston es un guionista y director de cine estadounidense nacido en 1968 en California.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Joshua",
+                "tgt": "Joshua"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "director"
+                ],
+                "tgt_alt": [
+                    "directora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Per Petterson \uffed, idazle norvegiarra \uffed; 1952ko uztailaren 18an jaio zen \uffed, Oslon \uffed.",
+        "tgt": "Per Petterson es un escritor noruego nacido el 18 de julio de 1952 en Oslo.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Per",
+                "tgt": "Per"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Miguel Pinedo Vidal \uffed, politikari kolonbiarra \uffed; Riohachan jaio zen \uffed, La Guajiran \uffed, 1943ko otsailaren 15ean \uffed.",
+        "tgt": "Miguel Pinedo Vidal es un pol\u00edtico colombiano, nacido en Riohacha, La Guajira el 15 de febrero de 1943.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Miguel",
+                "tgt": "Miguel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Marcelo Tom\u00e1s Montecino Slaughter \uffed, argazkilari \uffed, interpretatzaile \uffed, itzultzaile eta idazle txiletarra \uffed.",
+        "tgt": "Marcelo Tom\u00e1s Montecino Slaughter es un fot\u00f3grafo, int\u00e9rprete, traductor y escritor chileno.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Marcelo",
+                "tgt": "Marcelo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "fot\u00f3grafo",
+                    "traductor",
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "fot\u00f3grafa",
+                    "traductora",
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Gast\u00f3n Acurio Jaramillo \uffed, chef \uffed, idazle \uffed, negozio-gizon eta Peruko gastronomiaren sustatzailea \uffed.",
+        "tgt": "Gast\u00f3n Acurio Jaramillo es un chef, escritor, hombre de negocios y promotor de la gastronom\u00eda peruana.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Gast\u00f3n",
+                "tgt": "Gast\u00f3n"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "escritor",
+                    "promotor"
+                ],
+                "tgt_alt": [
+                    "escritora",
+                    "promotora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Georges Bertrand \uffed, geografo eta biogeografo frantsesa \uffed.",
+        "tgt": "Georges Bertrand es un ge\u00f3grafo y bioge\u00f3grafo franc\u00e9s.",
+        "features": "1 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Georges",
+                "tgt": "Georges"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "ge\u00f3grafo",
+                    "bioge\u00f3grafo"
+                ],
+                "tgt_alt": [
+                    "ge\u00f3grafa",
+                    "biogre\u00f3grafa"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Bertrand Lemoine \uffed, arkitekto \uffed, ingeniari eta kazetari frantsesa \uffed.",
+        "tgt": "Bertrand Lemoine es un arquitecto, ingeniero y periodista franc\u00e9s.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Bertrand",
+                "tgt": "Bertrand"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "arquitecto",
+                    "ingeniero"
+                ],
+                "tgt_alt": [
+                    "arquitecta",
+                    "ingeniera"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jorge Ignacio Garc\u00eda Cuerva \uffed, gotzain katoliko \uffed, abokatu \uffed, teologo \uffed, filosofo eta kanonista argentinarra \uffed.",
+        "tgt": "Jorge Ignacio Garc\u00eda Cuerva es un obispo cat\u00f3lico, abogado, te\u00f3logo, fil\u00f3sofo y canonista argentino.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jorge",
+                "tgt": "Jorge"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogado",
+                    "te\u00f3logo",
+                    "fil\u00f3sofo"
+                ],
+                "tgt_alt": [
+                    "abogada",
+                    "te\u00f3loga",
+                    "fil\u00f3sofa"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Carlos Bustamante Monteverde \uffed, perutar-estatubatuar zientzialari ospetsua \uffed, DNAren eta proteinen azterketa biofisikoan espezializatua \uffed.",
+        "tgt": "Carlos Bustamante Monteverde , es un destacado cient\u00edfico peruano estadounidense especializado en el estudio biof\u00edsico del ADN y prote\u00ednas.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Carlos",
+                "tgt": "Carlos"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "cient\u00edfico"
+                ],
+                "tgt_alt": [
+                    "cient\u00edfica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Aristides Vega Chap\u00fa \uffed, poeta \uffed, narratzaile eta kultura-sustatzailea \uffed.",
+        "tgt": "Ar\u00edstides Vega Chap\u00fa es un poeta, narrador y promotor cultural.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Ar\u00edstides",
+                "tgt": "Ar\u00edstides"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "poeta",
+                    "narrador",
+                    "promotor"
+                ],
+                "tgt_alt": [
+                    "poetisa",
+                    "narradora",
+                    "promotora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jo\u00e3o Nicolau \uffed, Portugalgo zinema-zuzendaria \uffed.",
+        "tgt": "Jo\u00e3o Nicolau es un director de cine portugu\u00e9s.",
+        "features": "1 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jo\u00e3o",
+                "tgt": "Jo\u00e3o"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "director"
+                ],
+                "tgt_alt": [
+                    "directora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Gianni Minervini \uffed, igerilari italiar erretiratua \uffed, bular-estiloko probetan espezializatua \uffed; 1991n munduko brontzezko domina lortu zuen 100 metroko bular-estiloko proban \uffed.",
+        "tgt": "Gianni Minervini es un nadador italiano retirado especializado en pruebas de estilo braza, donde consigui\u00f3 ser medallista de bronce mundial en 1991 en los 100 metros estilo braza.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Gianni",
+                "tgt": "Gianni"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadador"
+                ],
+                "tgt_alt": [
+                    "nadadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Eulogio D\u00e1valos Llanos \uffed, Txileko musikari \uffed, konpositore eta gitarrista klasikoa \uffed.",
+        "tgt": "Eulogio D\u00e1valos Llanos m\u00fasico compositor y guitarrista cl\u00e1sico chileno.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Eulogio",
+                "tgt": "Eulogio"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico",
+                    "compositor"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica",
+                    "compositora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Richard A \uffed. Landes \uffed, historialari estatubatuarra \uffed, Erdi Aroko historian eta milenarismoan espezializatua \uffed.",
+        "tgt": "Richard A. Landes es un historiador estadounidense especializado en historia medieval y en milenarismo.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Richard",
+                "tgt": "Richard"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "historiador"
+                ],
+                "tgt_alt": [
+                    "historiadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jon Spencer \uffed, musikari estatubatuarra \uffed, Hannover-en jaioa 1965ean \uffed; besteak beste \uffed, Jon Spencer Blues Explosion \uffed, Boss Musical eta Heavy Trash taldeetako kide da \uffed, eta beste zenbait taldetan ere kolaboratzen du \uffed.",
+        "tgt": "Jon Spencer es un m\u00fasico estadounidense nacido en Hanover en 1965 y miembro de, entre otros grupos, Jon Spencer Blues Explosion , Boss Hog y Heavy Trash, adem\u00e1s de colaborar con un pu\u00f1ado de bandas.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jon",
+                "tgt": "Jon"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jos\u00e9 Joaqu\u00edn Bautista Arias \uffed, dominikar jaurtitzaile ohia \uffed; Beisboleko Liga Handietan jokatu zuen 1988tik 1997ra bitartean \uffed.",
+        "tgt": "Jos\u00e9 Joaqu\u00edn Bautista Arias es un ex lanzador dominicano que jug\u00f3 en las Grandes Ligas de B\u00e9isbol desde 1988 hasta 1997.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jos\u00e9",
+                "tgt": "Jos\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "lanzador"
+                ],
+                "tgt_alt": [
+                    "lanzadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Pascual Coco Reynoso \uffed, dominikar jaurtitzaile ohia \uffed; Liga Handietan jokatu zuen \uffed.",
+        "tgt": "Pascual Coco Reynoso es un ex lanzador dominicano que jug\u00f3 en las Grandes Ligas.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Pascual",
+                "tgt": "Pascual"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "lanzador"
+                ],
+                "tgt_alt": [
+                    "lanzadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Michel Nutter \uffed, politikari estatubatuarra \uffed, Filadelfia hiriko egungo alkatea \uffed; Filadelfian jaio zen \uffed, eta hiri horretan bertan ikasi zuen \uffed.",
+        "tgt": "Michel Nutter es un pol\u00edtico estadounidense, actual alcalde de la ciudad de Filadelfia Naci\u00f3 en Filadelfia y estudi\u00f3 en esa misma ciudad.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Michel",
+                "tgt": "Michel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico",
+                    "alcalde"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica",
+                    "alcaldesa"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alexandre Rockwell \uffed, AEBko zinema-zuzendari \uffed, -\uffed ekoizle eta -\uffed gidoilaria \uffed; Bostonen jaio zen \uffed, Massachusettsen \uffed.",
+        "tgt": "Alexandre Rockwell es un director, productor y guionista de cine estadounidense, nacido en Boston, Massachusetts.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Alexandre",
+                "tgt": "Alexandre"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "director",
+                    "productor"
+                ],
+                "tgt_alt": [
+                    "directora",
+                    "productora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Scott James Remnant \uffed, software librearen garatzailea \uffed; Canonical Ltd enpresarentzat lan egiten du \uffed, GNU \uffed/\uffed Linux Ubunturen banaketaren garatzaile gisa \uffed.",
+        "tgt": "Scott James Remnant es un desarrollador de software libre que trabaja para la empresa Canonical Ltd como desarrollador de la distribuci\u00f3n de GNU/Linux Ubuntu.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Scott",
+                "tgt": "Scott"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "desarrollador"
+                ],
+                "tgt_alt": [
+                    "desarrolladora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Juan Jos\u00e9 V\u00e9lez Otero \uffed, poeta eta itzultzaile espainiarra \uffed.",
+        "tgt": "Juan Jos\u00e9 V\u00e9lez Otero , es un poeta y traductor espa\u00f1ol.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Juan",
+                "tgt": "Juan"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "traductor"
+                ],
+                "tgt_alt": [
+                    "traductora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Carlos M \uffed. de la Cruz \uffed, enpresari eta arte-bildumazale kubatar-estatubatuarra \uffed.",
+        "tgt": "Carlos M. de la Cruz es un empresario y coleccionista de arte cubano-estadounidense.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Carlos",
+                "tgt": "Carlos"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "empresario"
+                ],
+                "tgt_alt": [
+                    "empresaria"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "David Jasso \uffed, beldurrezko \uffed, intrigazko eta zientzia-fikziozko idazle espainiarra \uffed.",
+        "tgt": "David Jasso es un escritor espa\u00f1ol de terror, intriga y ciencia ficci\u00f3n.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "David",
+                "tgt": "David"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Miguel Francisco La Torre S\u00e1enz \uffed, Miguel La Torre izenez ezaguna \uffed, politikari mexikarra \uffed; Acci\u00f3n Nacional alderdiko kidea da \uffed.",
+        "tgt": "Miguel Francisco La Torre S\u00e1enz , conocido com\u00fanmente como Miguel La Torre, es un pol\u00edtico mexicano, miembro del Partido Acci\u00f3n Nacional.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Miguel",
+                "tgt": "Miguel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "pl\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Juan Jos\u00e9 Oc\u00f3n \uffed, musikari eta orkestra-zuzendari espainiarra \uffed, Euskal Herriko Gazte Orkestraren egungo zuzendaria \uffed.",
+        "tgt": "Juan Jos\u00e9 Oc\u00f3n , m\u00fasico y director de orquesta espa\u00f1ol, actual director de la Joven Orquesta de Euskal Herria .",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Juan",
+                "tgt": "Juan"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico",
+                    "director"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica",
+                    "directora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Michael Pitts \uffed, artzain \uffed, predikari eta autore estatubatuarra \uffed; Toledo hirian bizi da \uffed, Ohion \uffed.",
+        "tgt": "Michael Pitts es un pastor, predicador y autor estadounidense con residencia en la ciudad de Toledo, Ohio.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Michael",
+                "tgt": "Michael"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pastor",
+                    "predicador",
+                    "autor"
+                ],
+                "tgt_alt": [
+                    "pastora",
+                    "predicadora",
+                    "autora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jos\u00e9 Ram\u00f3n Quir\u00f3s Garc\u00eda \uffed, PSOErekin lotutako politikari asturiarra \uffed.",
+        "tgt": "Jos\u00e9 Ram\u00f3n Quir\u00f3s Garc\u00eda es un pol\u00edtico asturiano vinculado al PSOE.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jos\u00e9",
+                "tgt": "Jos\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "J\u00fcrgen Glas \uffed, igerilari alemaniar erretiratua \uffed, bular-estiloko probetan espezializatua \uffed; 1973an munduko txapeldunorde izan zen 4x100 metroko estiloen proban \uffed.",
+        "tgt": "J\u00fcrgen Glas es un nadador alem\u00e1n retirado especializado en pruebas de estilo braza, donde consigui\u00f3 ser subcampe\u00f3n mundial en 1973 en los 4x100 metros estilos.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "J\u00fcrgen",
+                "tgt": "J\u00fcrgen"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "nadador"
+                ],
+                "tgt_alt": [
+                    "nadadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Zhou Wenzhong \uffed, politikari eta diplomatiko txinatarra \uffed; Txinako Herri Errepublikaren enbaxadore izan zen Estatu Batuetan \uffed.",
+        "tgt": "Zhou Wenzhong es un pol\u00edtico y diplom\u00e1tico chino y ocup\u00f3 el cargo de Embajador de la Rep\u00fablica Popular China en Estados Unidos.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Zhou",
+                "tgt": "Zhou"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico",
+                    "diplom\u00e1tico",
+                    "embajador"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica",
+                    "diplom\u00e1tica",
+                    "embajadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Marc I \uffed. Ehrlich \uffed, psikologo kliniko entzutetsua \uffed; artikulu eta liburu ugari idatzi ditu \uffed.",
+        "tgt": "Marc I. Ehrlich es un notable psic\u00f3logo cl\u00ednico y autor de numerosos art\u00edculos y libros.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Marc",
+                "tgt": "Marc"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "psic\u00f3logo",
+                    "autor"
+                ],
+                "tgt_alt": [
+                    "psic\u00f3loga",
+                    "autora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "James Douglas Muir Leno \uffed, Jay Leno izenez ezaguna \uffed, telebistako aurkezle eta umorista satiriko estatubatuarra \uffed.",
+        "tgt": "James Douglas Muir Leno , conocido como Jay Leno, es un presentador de televisi\u00f3n y humorista sat\u00edrico estadounidense.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "James",
+                "tgt": "James"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "presentador"
+                ],
+                "tgt_alt": [
+                    "presentadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Edmundo de Alba Alcaraz \uffed, klimatologo eta irakasle mexikarra \uffed.",
+        "tgt": "Edmundo de Alba Alcaraz es un climat\u00f3logo y profesor mexicano.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Edmundo",
+                "tgt": "Edmundo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "climat\u00f3logo",
+                    "profesor"
+                ],
+                "tgt_alt": [
+                    "climat\u00f3loga",
+                    "prefesora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Nakash Aziz \uffed, plasyback-abeslari eta konpositore indiarra \uffed.",
+        "tgt": "Nakash Aziz es un cantante de plasyback y compositor indio.",
+        "features": "1 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Nakash",
+                "tgt": "Nakash"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositor"
+                ],
+                "tgt_alt": [
+                    "compositora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Tobias Gr\u00fcnenfelder \uffed, eskiatzailea \uffed; 1977ko azaroaren 27an jaio zen \uffed, Elm-en \uffed, eta Eski Alpinoko Munduko Kopan proba bat irabazi zuen \uffed.",
+        "tgt": "Tobias Gr\u00fcnenfelder naci\u00f3 el 27 de noviembre de 1977 en Elm y es un esquiador que tiene una victoria en la Copa del Mundo de Esqu\u00ed Alpino .",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Tobias",
+                "tgt": "Tobias"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "esquiador"
+                ],
+                "tgt_alt": [
+                    "esquiadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Iv\u00e1n Joel Flores Quispe \uffed, Peruko irakasle \uffed, biologo eta politikaria \uffed.",
+        "tgt": "Iv\u00e1n Joel Flores Quispe es profesor, bi\u00f3logo y pol\u00edtico peruano.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Iv\u00e1n",
+                "tgt": "Iv\u00e1n"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "profesor",
+                    "bi\u00f3logo",
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "profesora",
+                    "bi\u00f3loga",
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Manolo Garc\u00eda \uffed, Sum\u00e9 izenez ezagunagoa \uffed, euskal gitarrista eta konpositorea \uffed; La Polla Records talde punk espainiarreko kide izateagatik da ezaguna \uffed, eta taldeko kide izan zen sortu zenetik 2003ra arte \uffed.",
+        "tgt": "Manolo Garc\u00eda, m\u00e1s conocido como Sum\u00e9, es un guitarrista y compositor vasco, conocido por haber sido parte del grupo punk espa\u00f1ol La Polla Records, banda con la cual se mantuvo desde su fundaci\u00f3n hasta 2003.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Manolo",
+                "tgt": "Manolo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositor"
+                ],
+                "tgt_alt": [
+                    "compositora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Pedro Roll\u00e1n Ojeda \uffed, Espainiako politikaria \uffed; gaur egun \uffed, Madrilgo Erkidegoko Ingurumen \uffed, Toki Administrazio eta Lurralde Antolamenduko sailburua da \uffed.",
+        "tgt": "Pedro Roll\u00e1n Ojeda es un pol\u00edtico espa\u00f1ol, actualmente consejero de Medio Ambiente, Administraci\u00f3n Local y Ordenaci\u00f3n del Territorio de la Comunidad de Madrid.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Pedro",
+                "tgt": "Pedro"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico",
+                    "consejero"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica",
+                    "consejera"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Fernando Flores Morador \uffed, teknologiaren filosofoa \uffed.",
+        "tgt": "Fernando Flores Morador es un Fil\u00f3sofo de la Tecnolog\u00eda.",
+        "features": "1 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Fernando",
+                "tgt": "Fernando"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "fil\u00f3sofo"
+                ],
+                "tgt_alt": [
+                    "fil\u00f3sofa"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "C\u00e9sar Fuentes Rodr\u00edguez \uffed, kazetari musikal eta idazle argentinarra \uffed; oso lotua dago heavy metalaren munduari \uffed.",
+        "tgt": "C\u00e9sar Fuentes Rodr\u00edguez es un periodista musical y escritor argentino muy ligado a la escena del heavy metal.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "C\u00e9sar",
+                "tgt": "C\u00e9sar"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "El\u00edas Mendoza Habersperger \uffed, Peruko abokatu \uffed, diplomatiko eta politikaria \uffed.",
+        "tgt": "El\u00edas Mendoza Habersperger es un abogado, diplom\u00e1tico y pol\u00edtico peruano.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "El\u00edas",
+                "tgt": "El\u00edas"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogado",
+                    "diplom\u00e1tico",
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "abogada",
+                    "diplom\u00e1tica",
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alejandro Pe\u00f1a Esclusa \uffed, Venezuelako politikaria \uffed; Fuerza Solidariaren burua da \uffed, eta UnoAm\u00e9rika GKEaren presidentea \uffed.",
+        "tgt": "Alejandro Pe\u00f1a Esclusa es un pol\u00edtico venezolano, l\u00edder de la Fuerza Solidaria y presidente de la ONG UnoAm\u00e9rica.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Alejandro",
+                "tgt": "Alejandro"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico",
+                    "l\u00edder",
+                    "presidente"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica",
+                    "lideresa",
+                    "presidenta"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Daniel Lowell \"\uffed Dan \uffed\" Peterson \uffed, AEBko saskibaloi-entrenatzailea \uffed.",
+        "tgt": "Daniel Lowell \"Dan\" Peterson es un entrenador de baloncesto estadounidense.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Daniel",
+                "tgt": "Daniel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "entrenador"
+                ],
+                "tgt_alt": [
+                    "entrenadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Big Boi \uffed, rapero eta produktore estatubatuarra \uffed; Outkast hip hopeko bikoteko kidea da \uffed.",
+        "tgt": "Big Boi es un rapero y productor estadounidense, miembro del d\u00fao de hip hop Outkast.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Big",
+                "tgt": "Big"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "rapero",
+                    "productor"
+                ],
+                "tgt_alt": [
+                    "rapera",
+                    "productora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Joel Padilla Pe\u00f1a \uffed, politikari mexikarra \uffed, Partido del Trabajo alderdiko kidea \uffed; Zacualpanen jaio zen \uffed, Compostelako udalerrian \uffed, Nayarit estatuan \uffed.",
+        "tgt": "Joel Padilla Pe\u00f1a es un pol\u00edtico mexicano, miembro del Partido del Trabajo; nacido en Zacualpan, municipio de Compostela, en el Estado de Nayarit.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Joel",
+                "tgt": "Joel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Fidel Edgardo Espinoza Sandoval \uffed, irakasle eta politikari txiletarra \uffed; Txileko Alderdi Sozialistako kidea \uffed.",
+        "tgt": "Fidel Edgardo Espinoza Sandoval es un profesor y pol\u00edtico chileno, miembro del Partido Socialista de Chile.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Fidel",
+                "tgt": "Fidel"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "profesor",
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "profesora",
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Alfredo Ibarra Montilla \uffed, historialari \uffed, ilustratzaile eta margolari espainiarra \uffed.",
+        "tgt": "Alfredo Ibarra Montilla es un historietista, ilustrador y pintor espa\u00f1ol .",
+        "features": "1 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Alfredo",
+                "tgt": "Alfredo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "ilustrador",
+                    "pintor"
+                ],
+                "tgt_alt": [
+                    "ilustradora",
+                    "pintora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Timoth\u00e9e Besset \uffed, programatzaile frantsesa \uffed, TTimo izenaz ezaguna \uffed; Linuxen egindako garapenengatik da ezaguna \uffed, hala nola id Softwareren jokoen moldaketengatik \uffed.",
+        "tgt": "Timoth\u00e9e Besset es un programador franc\u00e9s, conocido como TTimo, y reconocido por desarrollos en Linux, como los portes de c\u00f3digo de juegos de id Software.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Timoth\u00e9e",
+                "tgt": "Timoth\u00e9e"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "programador"
+                ],
+                "tgt_alt": [
+                    "programadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Ankit Tiwari \uffed, Indiako playback-abeslaria eta telebistako eta Bollywoodeko musika-zuzendaria \uffed.",
+        "tgt": "Ankit Tiwari es un cantante de playback y director musical de televisi\u00f3n y de Bollywood indio.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Ankit",
+                "tgt": "Ankit"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "director"
+                ],
+                "tgt_alt": [
+                    "directora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Norberto Julio Puzzolo \uffed, artista plastiko eta argazkilari argentinarra \uffed; marrazketa eta pintura ikasi zituen Juan Grela maisuaren tailerrean \uffed.",
+        "tgt": "Norberto Julio Puzzolo es un artista pl\u00e1stico y fot\u00f3grafo argentino Estudi\u00f3 dibujo y pintura en el taller del maestro Juan Grela.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Norberto",
+                "tgt": "Norberto"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "fot\u00f3grafo"
+                ],
+                "tgt_alt": [
+                    "fot\u00f3grafa"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Paulo C\u00e9sar Batista de Faria \uffed, Paulinho da Viola izenez ezagunagoa \uffed, gitarrista eta konpositore brasildarra \uffed; herrialde horretako musikaririk garrantzitsuenetako bat da \uffed, eta \uffed, seguruenik \uffed, Rio de Janeiroko Portelako Samba Eskolako ordezkari nagusia \uffed.",
+        "tgt": "Paulo C\u00e9sar Batista de Faria , m\u00e1s conocido como Paulinho da Viola, es un guitarrista y compositor brasilero, uno de los m\u00e1s importantes de la m\u00fasica de este pa\u00eds y probablemente el m\u00e1s destacado representante de la Escuela de Samba de Portela de la ciudad carioca.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Paulo",
+                "tgt": "Paulo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositor"
+                ],
+                "tgt_alt": [
+                    "compositora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lars Ulrich \uffed, musikari daniarra \uffed; batez ere \uffed, AEBko Metallica heavy metaleko taldeko bateria-jotzaile \uffed, konpositore \uffed, sortzaile eta liderra delako da ezaguna \uffed.",
+        "tgt": "Lars Ulrich es un m\u00fasico dan\u00e9s conocido principalmente por ser el baterista, compositor, fundador y l\u00edder de la banda de heavy metal estadounidense Metallica.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Lars",
+                "tgt": "Lars"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "compositor",
+                    "fundador",
+                    "l\u00edder"
+                ],
+                "tgt_alt": [
+                    "compositora",
+                    "fundadora",
+                    "lideresa"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "John Albert Kitzhaber \uffed, politikari estatubatuarra \uffed, Alderdi Demokratakoa \uffed.",
+        "tgt": "John Albert Kitzhaber es un pol\u00edtico estadounidense del Partido Dem\u00f3crata.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "John",
+                "tgt": "John"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Emilio Rodr\u00edguez L\u00f3pez \uffed, Milio el del Nido izenez ezagunagoa \uffed, ipuin eta istorioen kontalari asturiarra \uffed.",
+        "tgt": "Emilio Rodr\u00edguez L\u00f3pez, m\u00e1s conocido como Milio el del Nido, es un contador de cuentos y de historias en asturiano.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Emilio",
+                "tgt": "Emilio"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "contador"
+                ],
+                "tgt_alt": [
+                    "contadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Francisco Javier Bello Nieto \uffed, politikari espainiarra \uffed.",
+        "tgt": "Francisco Javier Bello Nieto es un pol\u00edtico espa\u00f1ol.",
+        "features": "1 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Francisco",
+                "tgt": "Francisco"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jos\u00e9 Antonio Franc\u00e9s Gonz\u00e1lez \uffed, idazle eta artikulugile espainiarra \uffed.",
+        "tgt": "Jos\u00e9 Antonio Franc\u00e9s Gonz\u00e1lez es un escritor y articulista espa\u00f1ol.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jos\u00e9",
+                "tgt": "Jos\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "H\u00e9ctor \u00ab\uffed Lim\u00f3n \uffed\u00bb Garc\u00eda \uffed, Argentinako abeslari \uffed, musikari eta rock- eta tango-konpositorea \uffed.",
+        "tgt": "H\u00e9ctor \u00abLim\u00f3n\u00bb Garc\u00eda es un cantante, m\u00fasico y compositor de rock y tango argentino.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "H\u00e9ctor",
+                "tgt": "H\u00e9ctor"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico",
+                    "compositor"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica",
+                    "compositora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Vladislav Delay \uffed, Sasu Ripatti musikari elektroniko finlandiarraren izengoitietako bat \uffed.",
+        "tgt": "Vladislav Delay es uno de los seud\u00f3nimos de Sasu Ripatti , un m\u00fasico electr\u00f3nico finland\u00e9s.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Vladislav",
+                "tgt": "Vladislav"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Roland Collins \uffed, Troy Ave izen artistikoarekin ezagunagoa \uffed, rapero estatubatuarra \uffed; New York hirikoa da \uffed, Crown Heights auzokoa (\uffed Brooklyn \uffed) \uffed.",
+        "tgt": "Roland Collins , mejor conocido por el nombre art\u00edstico de Troy Ave, es un rapero norteamericano del barrio de Crown Heights, Brooklyn, Ciudad de Nueva York.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Roland",
+                "tgt": "Roland"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "rapero"
+                ],
+                "tgt_alt": [
+                    "rapera"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jos\u00e9 Antonio Dur\u00e1n Rivas \uffed, Jos\u00e9 Dur\u00e1n izenez ezagunagoa \uffed, futbol-entrenatzaile espainiarra \uffed; 1974ko ekainaren 29an jaio zen \uffed, Lugon \uffed.",
+        "tgt": "Jos\u00e9 Antonio Dur\u00e1n Rivas, m\u00e1s conocido como Jos\u00e9 Dur\u00e1n, nacido el 29 de junio de 1974 en Lugo, es un entrenador de f\u00fatbol espa\u00f1ol.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jos\u00e9",
+                "tgt": "Jos\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "entrenador"
+                ],
+                "tgt_alt": [
+                    "entrenadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Marcin G\u00f3rniak \uffed, botanikari poloniarra \uffed; Gda\u0144skeko Unibertsitateko Taxonomia eta Natura Kontserbazioa Departamenduko kidea da \uffed.",
+        "tgt": "Marcin G\u00f3rniak es un bot\u00e1nico polaco; del Departamento de Taxonom\u00eda y Conservaci\u00f3n de la Naturaleza, de la Universidad de Gda\u0144sk.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Marcin",
+                "tgt": "Marcin"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "bot\u00e1nico"
+                ],
+                "tgt_alt": [
+                    "bot\u00e1nica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Benjam\u00edn Prado Casas \uffed, abokatua eta buruzagi demokrata-kristaua \uffed.",
+        "tgt": "Benjam\u00edn Prado Casas es un abogado y dirigente dem\u00f3crata-cristiano.",
+        "features": "1 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Benjam\u00edn",
+                "tgt": "Benjam\u00edn"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "abogado"
+                ],
+                "tgt_alt": [
+                    "abogada"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Per N\u00f8rg\u00e5rd \uffed, konpositore daniarra \uffed.",
+        "tgt": "Per N\u00f8rg\u00e5rd es un compositor dan\u00e9s.",
+        "features": "1 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Per",
+                "tgt": "Per"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "compositor"
+                ],
+                "tgt_alt": [
+                    "compositora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Abu Bakr Buera \uffed, jurista eta politikari libiarra \uffed, federalismo zirenaikoaren aldekoa \uffed; Libiako Ordezkarien Ganberako kidea \uffed.",
+        "tgt": "Abu Bakr Buera es un jurista y pol\u00edtico libio partidario del federalismo cirenaico y miembro de la C\u00e1mara de Representantes de Libia.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Abu",
+                "tgt": "Abu"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Andr\u00e9 Merlet \uffed, orkidologo eta botanikari frantsesa \uffed.",
+        "tgt": "Andr\u00e9 Merlet es un orquid\u00f3logo, y bot\u00e1nico franc\u00e9s.",
+        "features": "1 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Andr\u00e9",
+                "tgt": "Andr\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "orquid\u00f3logo",
+                    "bot\u00e1nico"
+                ],
+                "tgt_alt": [
+                    "orquid\u00f3loga",
+                    "bot\u00e1nica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Julio C\u00e9sar Herrero \uffed, kazetaria \uffed, irakaslea eta komunikazio politikoan espezializatutako idazlea \uffed.",
+        "tgt": "Julio C\u00e9sar Herrero es periodista, profesor, y escritor especializado en comunicaci\u00f3n pol\u00edtica.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Julio",
+                "tgt": "Julio"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "profesor",
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "profesora",
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Werner Spies \uffed, Alemaniako arte-kritikari \uffed, kazetari \uffed, historialari eta museo-zuzendaria \uffed.",
+        "tgt": "Werner Spies es un cr\u00edtico de arte alem\u00e1n, periodista, historiador y director de museos.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Werner",
+                "tgt": "Werner"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "cr\u00edtico",
+                    "historiador",
+                    "director"
+                ],
+                "tgt_alt": [
+                    "cr\u00edtica",
+                    "historiadora",
+                    "directora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Pedro de Moren\u00e9s y \u00c1lvarez de Eulate \uffed, Espainiako enpresari \uffed, goi-exekutibo eta politikaria \uffed; Espainiako Gobernuko defentsa-ministroa izan zen 2011ko abenduaren 22tik 2016ko azaroaren 4ra \uffed.",
+        "tgt": "Pedro de Moren\u00e9s y \u00c1lvarez de Eulate es un empresario, alto ejecutivo y pol\u00edtico espa\u00f1ol, antiguo ministro de Defensa del Gobierno de Espa\u00f1a desde el 22 de diciembre de 2011 hasta el 4 de noviembre de 2016 .",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Pedro",
+                "tgt": "Pedro"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "empresario",
+                    "ejecutivo",
+                    "pol\u00edtico",
+                    "ministro"
+                ],
+                "tgt_alt": [
+                    "empresaria",
+                    "ejecutiva",
+                    "pol\u00edtica",
+                    "ministra"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Luis Alberto Romero \uffed, historialari argentinarra \uffed; Jos\u00e9 Luis Romero historialariaren semea da \uffed.",
+        "tgt": "Luis Alberto Romero es un historiador argentino e hijo de Jos\u00e9 Luis Romero, tambi\u00e9n historiador.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Luis",
+                "tgt": "Luis"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "historiador"
+                ],
+                "tgt_alt": [
+                    "historiadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Christian Benday\u00e1n \uffed, Peruko margolari \uffed, marrazkilari \uffed, grabatzaile eta argazkilaria \uffed; ezaguna da Amazoniako artearen adierazle handienetako bat delako \uffed.",
+        "tgt": "Christian Benday\u00e1n es un pintor, dibujante, grabador y fot\u00f3grafo peruano conocido por ser uno de los m\u00e1s grandes exponentes del arte amaz\u00f3nico.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Christian",
+                "tgt": "Christian"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pintor",
+                    "grabador",
+                    "fot\u00f3grafo"
+                ],
+                "tgt_alt": [
+                    "pintora",
+                    "grabadora",
+                    "fot\u00f3grafa"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Irwin Winkler \uffed, zuzendari \uffed, gidoilari eta ekoizle estatubatuarra \uffed.",
+        "tgt": "Irwin Winkler es un director, guionista y productor Estadounidense.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Irwin",
+                "tgt": "Irwin"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "director",
+                    "productor"
+                ],
+                "tgt_alt": [
+                    "directora",
+                    "productora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Dison D\u00edaz \uffed, Kolonbiako rock-musikaria \uffed, La Pestilencia taldeko burua \uffed.",
+        "tgt": "Dison D\u00edaz es un m\u00fasico de rock colombiano, l\u00edder de la banda La Pestilencia.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Dison",
+                "tgt": "Dison"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Eduardo \"\uffed Dady \uffed\" Gallardo \uffed, eskubaloiko entrenatzaile argentinarra \uffed; Argentinako selekzioa zuzendu zuen 2012an \uffed, taldeak Londresko 2012ko Joko Olinpikoetan parte hartu zuenean \uffed.",
+        "tgt": "Eduardo \"Dady\" Gallardo es un entrenador argentino de balonmano que dirigi\u00f3 a la Selecci\u00f3n Argentina desde el 2012, a\u00f1o en el cual dicho combinado jug\u00f3 los Juegos Ol\u00edmpicos de Londres 2012.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Eduardo",
+                "tgt": "Eduardo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "entrenador"
+                ],
+                "tgt_alt": [
+                    "entrenadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Rimer Cardillo \uffed, Uruguaiko artista bisual eta grabatzailea \uffed; 1979tik Estatu Batuetan bizi da \uffed.",
+        "tgt": "Rimer Cardillo es un artista visual y grabador uruguayo de extensa trayectoria internacional residente en los Estados Unidos desde 1979.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Rimer",
+                "tgt": "Rimer"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "grabador"
+                ],
+                "tgt_alt": [
+                    "grabadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "William Loshawn Calhoun Jr \uffed. \uffed, WC izenez ezagunagoa \uffed, South Central Los Angelesko (\uffed Kalifornia \uffed) raperoa \uffed; Westside Connection hip hop taldeko kidea da \uffed.",
+        "tgt": "William Loshawn Calhoun Jr., m\u00e1s conocido como WC es un rapero de South Central Los \u00c1ngeles, California, miembro del grupo de hip hop, Westside Connection.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "William",
+                "tgt": "William"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "rapero"
+                ],
+                "tgt_alt": [
+                    "rapera"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "\u013dubo\u0161 Miche\u013e \uffed, Eslovakiako futbol-arbitro ohia \uffed; azken urteotako epailerik onenetakotzat dute FIFAk eta UEFAk \uffed.",
+        "tgt": "\u013dubo\u0161 Miche\u013e es un ex \u00e1rbitro de f\u00fatbol eslovaco, considerado por FIFA y UEFA como uno de los mejores colegiados de los \u00faltimos a\u00f1os.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Lubos",
+                "tgt": "Lubos"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "\u00e1rbitro"
+                ],
+                "tgt_alt": [
+                    "\u00e1rbitra"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Juli\u00e1n Eduardo Elfenbein Kaufmann \uffed, telebistako kazetari \uffed, esatari eta aurkezle txiletarra \uffed.",
+        "tgt": "Juli\u00e1n Eduardo Elfenbein Kaufmann es un periodista, locutor y presentador de televisi\u00f3n chileno.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Juli\u00e1n",
+                "tgt": "Juli\u00e1n"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "locutor",
+                    "presentador"
+                ],
+                "tgt_alt": [
+                    "locutora",
+                    "presentadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Jos\u00e9 Antich Valero \uffed, kazetari eta idazle espainiarra \uffed.",
+        "tgt": "Jos\u00e9 Antich Valero es un periodista y escritor espa\u00f1ol.",
+        "features": "1 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Jos\u00e9",
+                "tgt": "Jos\u00e9"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Gustavo Ferrari abokatu \uffed, enpresari eta politikari argentinarra \uffed; Chivilcoy hirian jaio zen \uffed, Buenos Airesko probintzian \uffed.",
+        "tgt": "Gustavo Ferrari es un abogado, empresario y pol\u00edtico argentino oriundo de la ciudad de Chivilcoy, provincia de Buenos Aires.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Gustavo",
+                "tgt": "Gustavo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogado",
+                    "empresario",
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "abogada",
+                    "empresaria",
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Luis Moreno \uffed, soziologo \uffed, politologo \uffed, kazetari eta saiakeragilea \uffed; CSICeko ikerketa-irakaslea da \uffed.",
+        "tgt": "Luis Moreno , soci\u00f3logo, polit\u00f3logo, periodista y ensayista, es profesor de investigaci\u00f3n del CSIC.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Luis",
+                "tgt": "Luis"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "soci\u00f3logo",
+                    "polit\u00f3logo",
+                    "profesor"
+                ],
+                "tgt_alt": [
+                    "soci\u00f3loga",
+                    "polit\u00f3loga",
+                    "profesora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Hannu Salama \uffed, idazle finlandiarra \uffed; 1975ean Kontseilu Nordikoko Literatura Sari ospetsua eta Eskandinaviako beste literatura-sari batzuk irabazi zituen \uffed.",
+        "tgt": "Hannu Salama escritor fin\u00e9s galardonado en 1975 con el prestigioso Premio de Literatura del Consejo N\u00f3rdico y otros premios literarios en Escandinavia.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Hannu",
+                "tgt": "Hannu"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Christian L\u00e9pine \uffed, artzapezpiku katoliko eta teologo kanadarra \uffed.",
+        "tgt": "Christian L\u00e9pine es un arzobispo cat\u00f3lico y te\u00f3logo canadiense.",
+        "features": "1 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Christian",
+                "tgt": "Christian"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null
+                ],
+                "tgt": [
+                    "te\u00f3logo"
+                ],
+                "tgt_alt": [
+                    "te\u00f3loga"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Lee M \uffed. Ranaldo \uffed, musikari estatubatuarra \uffed; Sonic Youth eta Text of Light taldeen gitarrista \uffed, eta batzuetan kantari \uffed, eta sortzaileetako bat izateagatik da ezaguna \uffed.",
+        "tgt": "Lee M. Ranaldo es un m\u00fasico estadounidense conocido por ser guitarrista, en ocasiones vocalista y cofundador de la banda Sonic Youth y la banda Text of Light.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Lee",
+                "tgt": "Lee"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "m\u00fasico",
+                    "cofundador"
+                ],
+                "tgt_alt": [
+                    "m\u00fasica",
+                    "cofundadora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Ram\u00f3n Fonseca Mora \uffed, Panamako abokatu eta idazlea \uffed.",
+        "tgt": "Ram\u00f3n Fonseca Mora es un abogado y escritor paname\u00f1o.",
+        "features": "1 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Ram\u00f3n",
+                "tgt": "Ram\u00f3n"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "abogado",
+                    "escritor"
+                ],
+                "tgt_alt": [
+                    "abogada",
+                    "escritora"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Nelson Oswaldo Chui Mej\u00edam \uffed, Peruko ingeniari eta politikaria \uffed.",
+        "tgt": "Nelson Oswaldo Chui Mej\u00eda es un ingeniero y pol\u00edtico peruano.",
+        "features": "1 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Nelson",
+                "tgt": "Nelson"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "ingeniero",
+                    "pol\u00edtico"
+                ],
+                "tgt_alt": [
+                    "ingeniera",
+                    "pol\u00edtica"
+                ]
+            }
+        ],
+        "type": "PN"
+    },
+    {
+        "src": "Rodolfo M\u00e9ndez Mata \uffed, Costa Ricako politikari eta ingeniaria \uffed; hainbat kargu publiko izan ditu \uffed, hala nola Batzar Legegileko diputatu eta Lehendakaritzako eta Ogasuneko ministro Rafael \u00c1ngel Calder\u00f3n Fournierren administrazio-garaian \uffed.",
+        "tgt": "Rodolfo M\u00e9ndez Mata es un pol\u00edtico e ingeniero costarricense, ha ejercido diversos cargos p\u00fablicos como diputado de la Asamblea Legislativa y ministro de la Presidencia y de Hacienda durante la administraci\u00f3n de Rafael \u00c1ngel Calder\u00f3n Fournier.",
+        "features": "1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "genders": [
+            "M"
+        ],
+        "entities": [
+            {
+                "src": "Rodolfo",
+                "tgt": "Rodolfo"
+            }
+        ],
+        "professions": [
+            {
+                "src": [
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "tgt": [
+                    "pol\u00edtico",
+                    "ingeniero",
+                    "diputado",
+                    "ministro"
+                ],
+                "tgt_alt": [
+                    "pol\u00edtica",
+                    "ingeniera",
+                    "diputada",
+                    "ministra"
+                ]
+            }
+        ],
+        "type": "PN"
+    }
+]
